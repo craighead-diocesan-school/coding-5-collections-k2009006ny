@@ -5,7 +5,11 @@
 let subjects = [
   'English',
   'Digital Technology',
+  'Science',
+  'Social study',
+  newSubject
 ]
+
 
 function showSubjects() {
   alert(subjects)
